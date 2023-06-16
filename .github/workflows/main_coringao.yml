@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Coringao'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B254E0DDDB64CDE8D4AE28C99CED284 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC2E9CB1F6EC452FBF2E0D7B23859A21 }}
           package: .
